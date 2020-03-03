@@ -4,4 +4,4 @@ Web API with ASP .Net core, following
 tutoring
 ![](https://img.icons8.com/color/48/000000/windows-logo.png>)
 <img src="https://img.icons8.com/color/48/000000/windows-logo.png">
-<p><a href="https://icons8.com/icon/17854/logo-do-windows">Logo do Windows icon by Icons8</a><p>
+<p><a href="https://icons8.com/icon/17854/logo-do-windows">by Icons8</a><p>
